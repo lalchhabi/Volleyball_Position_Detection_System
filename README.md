@@ -36,5 +36,6 @@ link for the trained models: https://drive.google.com/drive/folders/1qvy7dSfIgnH
 This is the overall project description.
 
 <img alt = 'coding' width = "1000" height = "500" src = "https://github.com/lalchhabi/Volleyball_Position_Detection_System/blob/master/testi/volleyball_test_result1.png">
+
 <img alt = 'coding' width = "1000" height = "500" src = "https://github.com/lalchhabi/Volleyball_Position_Detection_System/blob/master/testing/volleyball_test_result2.png">
 
