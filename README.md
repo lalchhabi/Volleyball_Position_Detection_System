@@ -24,6 +24,8 @@ g) Create train.txt, test.txt and labelled_data.data files by running two files:
 h) Create backup directory to save the trained models or weights.
 i) Now Train the images.
 
+link for training file: https://github.com/lalchhabi/Volleyball_Position_Detection_System/blob/master/training/volleyball_detection.ipynb
+
 3. Testing
 After training the images we can get trained models or weights in backup directory.
 Now downlaod the trained weights in your local computer and configuration files and classes.txt as well.
@@ -32,3 +34,7 @@ After that run the https://github.com/lalchhabi/Volleyball_Position_Detection_Sy
 link for the trained models: https://drive.google.com/drive/folders/1qvy7dSfIgnHdGN4k7DCxdvJlLnOz2gTE?usp=sharing
 
 This is the overall project description.
+
+<img alt = 'coding' width = "1000" height = "500" src = "https://github.com/lalchhabi/Volleyball_Position_Detection_System/blob/master/testi/volleyball_test_result1.png">
+<img alt = 'coding' width = "1000" height = "500" src = "https://github.com/lalchhabi/Volleyball_Position_Detection_System/blob/master/testing/volleyball_test_result2.png">
+
